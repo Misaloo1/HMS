@@ -2,7 +2,7 @@
 
 **Database Name: hmisphp**
 
-**Developed by Martin Mbithi Nzilani**
+**Developed by Hitesh Ranjeet Jadhav**
 
 **Recommended PHP Version 5.6, 7.4**
 
